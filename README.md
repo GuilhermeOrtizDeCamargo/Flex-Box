@@ -1,5 +1,9 @@
 # Atividade 01 de Flexbox
 
+Repositório forkado da profª Fernanda Caramico. 
+
+https://avatars.githubusercontent.com/u/46379117?v=4
+
 ## Testando comandos de estilo:
 
 Adicione os estilos abaixo no código-fonte e veja o que acontece com os elementos.
