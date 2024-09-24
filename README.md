@@ -3,7 +3,7 @@
 Repositório forkado da profª Fernanda Caramico. 
 
 <h1>
-    <a href="[https://www.sptech.school](https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01)">
+    <a href="https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01">
       <img align="center" width="80px" src="https://avatars.githubusercontent.com/u/46379117?v=4" img width="80" alt="{a} logo" class="img-fluid"></a>
 </h1>
 
