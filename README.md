@@ -3,9 +3,10 @@
 Repositório forkado da profª Fernanda Caramico. 
 
 <h1>
-    <a href="https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01">
-      <img align="center" width="80px" src="https://avatars.githubusercontent.com/u/46379117?v=4" img width="80" alt="{a} logo" class="img-fluid"></a>
-      
+    <a href="[https://www.sptech.school](https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01)">
+      <img align="center" width="80px" src="https://avatars.githubusercontent.com/u/46379117?v=4;v=beta&amp;t=eAr1k0xFZ7XCVPkddFFFYcjyASP1kEPZ8gPFOfgHBf4" img width="80" alt="{a} logo" class="img-fluid"></a>
+    <span>Apresentação Pessoal</span>
+</h1>
 
 ## Testando comandos de estilo:
 
