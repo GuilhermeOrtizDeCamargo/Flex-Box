@@ -1,11 +1,11 @@
-# Atividade 01 de Flexbox
+# Atividade de Flexbox
 
 Repositório forkado da profª Fernanda Caramico. 
 
 <h1>
     <a href="https://www.sptech.school/">
       <img align="center" width="80px" src="https://avatars.githubusercontent.com/u/46379117?v=4" img width="80" alt="{a} logo" class="img-fluid"></a>
-      https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01
+      <br>https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01
 
 ## Testando comandos de estilo:
 
